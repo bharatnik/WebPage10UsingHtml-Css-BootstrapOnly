@@ -1,0 +1,215 @@
+body{
+    background-color: #151313;
+    overflow-x: hidden;
+}
+.container{
+     max-width: 1420px;
+     border:1px solid red;
+}
+/* START GROUP1 */
+.logo{
+     margin-top: 40px;
+     margin-left: 500px;
+     margin-bottom: 80px;
+     border: 1px solid red;
+}
+
+/* Start header */
+header{
+    background-color: #ffffff;
+    border:1px solid red;
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 42px;
+    color: #151313;
+    font-family: "Libre Franklin";
+    margin-left: 180px;
+    border:1px solid black;
+    display: inline-block;
+    /* padding-left: 60px; */
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: #232323;
+    font-weight: 900;
+}
+
+/* START BANNER1 section */
+.banner1{
+     background-image: url(/11-NovMoodFoodRest/assets/Images/G1IMG1.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-bottom: 40px;
+     margin-bottom: 70px;
+}
+.banner1 h1{
+    font-size: 81px;
+    line-height: 81px;
+    color: #e7e7e7;
+    font-weight: 300;
+    font-family: "Study";
+    text-align: center;
+    margin-top: -530px;
+}
+.banner1 p{
+    font-size: 23px;
+    color: #e7e7e7;
+    font-family: "Libre Franklin";
+    text-align: center;
+    margin-top: 80px;
+}
+
+/* START GROUP 2 */
+.banner2{
+     margin-bottom: 60px;
+}
+.banner2A{
+    background-color: #e7e7e7;
+    margin-bottom: 40px;
+    padding: 40px 0px;
+}
+.banner2 .banner2A h1{
+    font-size: 81px;
+    line-height: 81px;
+    color: #151313;
+    font-weight: 300;
+    font-family: "Study";
+    text-align: center;
+    margin-bottom: 30px;
+}
+.banner2 .banner2A h2{
+    font-size: 33px;
+    color: #151313;
+    font-family: "Libre Franklin";
+    text-align: center;
+}
+.banner2 .rect{
+    width: 345px;
+    height: 27px;
+    background-color: #151313;
+    border: 1px solid red;
+    margin-left: 30px;
+    /* margin-top: -80px; */
+}
+.banner2 .rect h3{
+    font-size: 19px;
+    color: #e7e7e7;
+    font-family: "Libre Franklin";
+    text-align: center;
+    margin-top: -100px;
+    background-color: #000;
+}
+.banner2 h4{
+    font-size: 18px;
+    color: #e7e7e7;
+    font-family: "Libre Franklin";
+    /* margin-top: 80px; */
+}
+
+/* START GROUP 3 */
+.banner3{
+     margin-bottom: 40px;
+     background-image: url(/11-NovMoodFoodRest/assets/Images/G3IMG1.png);
+     background-repeat: no-repeat;
+     height:550px;
+     position: relative;
+     border: 1px solid red;
+     /* background-size: cover; */
+}
+.banner3 .banner3A{
+     position: absolute;
+     right: 300px;
+     top: 230px;
+     border: 1px solid green;
+     height: 100px; width: 100px;
+}
+.banner3 .banner3A h1{
+     font-size: 80px;
+     color: #ffffff;
+}
+.banner3B{
+    margin-bottom: 40px;
+}
+.banner3B h1{
+     font-size: 50px;
+     color: #ffffff;
+     text-align: right;
+     margin-top: 150px;
+}
+.banner3C{
+     margin-bottom: 40px;
+}
+.banner3C h1{
+     font-size: 30px;
+     color: #ffffff;
+     text-align: left;
+     margin-bottom: 20px;
+}
+.banner3C h2{
+     font-size: 30px;
+     color: #ffffff;
+     text-align: center;
+     margin-bottom: 20px;
+}
+.banner3C h3{
+     font-size: 30px;
+     color: #ffffff;
+     text-align: right;
+     margin-bottom: 20px;
+}
+.banner3C p{
+     font-size: 15px;
+     color: #ffffff;
+     line-height: 15px;
+}
+.banner3D{
+     margin-bottom: 40px;
+}
+.banner3D h1{
+     font-size: 40px;
+     color: #ffffff;
+     margin-top: 160px;
+}
+.banner3E{
+     margin-bottom: 40px;
+}
+.banner3E h1{
+     font-size: 30px;
+     color: #ffffff;
+     text-align: right;
+     margin-top: 130px;
+}
+/* START GROUP 4 */
+/* START BANNER 4 */
+.banner4{
+     border:1px solid transparent;
+     background-color: #e7e7e7;
+}
+.banner4 h1{
+     font-size: 42px;
+     color: #151313;
+     font-weight: 300;
+     font-family: "Study";
+     text-align: center;
+     margin-top: 80px;
+}
+.banner4 .banner4A{
+     margin: 40px 0px;
+      margin-left: 535px;
+}
+.banner4 .banner4A ul{
+     list-style-type: none;
+}
+.banner4 .banner4A ul li{
+      display: inline-block;
+}
+.banner4 .banner4A ul li a{
+     margin-right: 60px;
+}
+.banner4 h2{
+     font-size: 31px;
+     color: #151313;
+     font-weight: 300;
+     font-family: "Study";
+     text-align: center;
+     margin-bottom: 80px;
+}
